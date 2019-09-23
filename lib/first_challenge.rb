@@ -8,7 +8,7 @@ def first_challenge
    => romatic,kisser,boyfriend
      
   cast:"Claire Danes" [Juliet = ]
-     
+     character => 
      
    }
 end
