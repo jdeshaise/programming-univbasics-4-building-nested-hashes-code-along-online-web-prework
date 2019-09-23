@@ -1,6 +1,6 @@
 def first_challenge
    epic_tragedy = movie title  
-   { ROmeo + Juliet 
+   '{ ROmeo + Juliet 
    
    cast: "Leonardo DiCaprio" 
    character => "ROmeo"
@@ -12,5 +12,5 @@ def first_challenge
      
      ["Juliet"] attrilbutes 
      => princess, drink poision 
-   }
+   }'
 end
