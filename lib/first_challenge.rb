@@ -7,7 +7,7 @@ def first_challenge
    "ROmeo's attrilbutes"
    => romatic,kisser,boyfriend
      
-  cast  [Juliet = ]
+  cast; [Juliet = ]
      
      
    }
