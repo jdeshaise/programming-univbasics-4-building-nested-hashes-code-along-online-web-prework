@@ -5,7 +5,7 @@ def first_challenge
    cast: "Leonardo DiCaprio" 
    character => "ROmeo"
    "ROmeo's attrilbutes"
-   => romatic 
+   => romatic,kisser,boyfriend
      
   cast  [Juliet = ]
      
