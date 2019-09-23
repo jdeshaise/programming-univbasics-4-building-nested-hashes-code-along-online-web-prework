@@ -8,7 +8,9 @@ def first_challenge
    => romatic,kisser,boyfriend
      
   cast:"Claire Danes" 
-     character => "Juliet"
+     character => ["Juliet"]
      
+     ["Juliet"] attrilbutes 
+     => princess, drink poision 
    }
 end
