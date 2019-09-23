@@ -15,6 +15,7 @@ def third_challenge
          :attitude => "worried"
         },
       :hero_friends => []
+      
    }, 
    :capulet => {
       :patriarch => {
