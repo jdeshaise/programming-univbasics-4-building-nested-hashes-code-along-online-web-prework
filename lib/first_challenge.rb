@@ -7,8 +7,8 @@ def first_challenge
    "ROmeo's attrilbutes"
    => romatic,kisser,boyfriend
      
-  cast:"Claire Danes" [Juliet = ]
-     character => 
+  cast:"Claire Danes" 
+     character => "Juliet"
      
    }
 end
